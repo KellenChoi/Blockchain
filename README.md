@@ -5,3 +5,4 @@
 # Cryto_trading
 # ChineseADRStrat
 # Shared
+# ChineseADRStrat
